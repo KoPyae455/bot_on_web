@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KoPyae - Tech Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>👨‍💻 KoPyae’s Tech Portfolio</h1>
+      <p>Showcasing AI tools and freelance services</p>
+    </header>
+
+    <section class="card" id="services">
+      <h2>🛠 Services</h2>
+      <ul>
+        <li>✅ Python Projects (Automation, AI, Web scraping)</li>
+        <li>☁️ Cloud Deployment (AWS, DigitalOcean, Render)</li>
+        <li>📱 Mobile Apps (Flutter, React Native)</li>
+        <li>📊 Data (Dashboards, ETL, Reporting)</li>
+      </ul>
+    </section>
+
+    <section class="card" id="projects">
+      <h2>📂 Projects</h2>
+      <p>Final year school projects, AI assistants, GitHub integrations.</p>
+    </section>
+
+    <section class="card" id="hire">
+      <h2>📬 Hire Me</h2>
+      <form id="hireForm">
+        <input type="text" name="name" placeholder="Your Name" required />
+        <input type="email" name="email" placeholder="Your Email" required />
+        <textarea name="message" placeholder="Project Details" required></textarea>
+        <button type="submit">Send</button>
+        <p id="hireResponse"></p>
+      </form>
+    </section>
+
+    <section class="card" id="chatbot">
+      <h2>🤖 AI Chatbot Assistant</h2>
+      <div id="chatBox" class="chatbox"></div>
+      <div class="chat-input">
+        <input type="text" id="userInput" placeholder="Ask me anything..." />
+        <button onclick="sendMessage()">Send</button>
+      </div>
+    </section>
+
+    <footer>
+      <p>© 2025 KoPyae • Built with ❤️ and Python</p>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

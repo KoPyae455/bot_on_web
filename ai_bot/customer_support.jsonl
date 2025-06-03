@@ -1,0 +1,109 @@
+{"instruction": "How do I create an account?", "output": "Visit kopyae.com/signup and provide your email and basic information."}
+{"instruction": "Where can I download your mobile app?", "output": "Our app is available on both Google Play Store and Apple App Store."}
+{"instruction": "What programming languages do you use?", "output": "We primarily work with Python, JavaScript, Java, and C# for projects."}
+{"instruction": "Can you build an e-commerce website?", "output": "Yes, we develop complete e-commerce solutions with payment integration."}
+{"instruction": "Do you offer database design services?", "output": "Yes, we design and optimize SQL and NoSQL database systems."}
+{"instruction": "How do I request a feature?", "output": "Email features@kopyae.com with your project ID and requirements."}
+{"instruction": "What's your response time for support?", "output": "We typically respond within 2 business hours for priority requests."}
+{"instruction": "Can you fix bugs in existing code?", "output": "Yes, we provide code debugging and optimization services."}
+{"instruction": "Do you work with blockchain technology?", "output": "We have limited experience with blockchain and smart contracts."}
+{"instruction": "How do I cancel my subscription?", "output": "Visit account settings at kopyae.com/account to manage subscriptions."}
+{"instruction": "What frameworks do you recommend for web apps?", "output": "We recommend Django for Python and React for JavaScript projects."}
+{"instruction": "Can you deploy machine learning models?", "output": "Yes, we deploy ML models with Flask, FastAPI, or cloud services."}
+{"instruction": "Do you provide technical documentation?", "output": "Yes, all projects include comprehensive technical documentation."}
+{"instruction": "How do I update my billing information?", "output": "Log in to your account dashboard at kopyae.com/billing."}
+{"instruction": "Can you integrate with third-party APIs?", "output": "Yes, we regularly integrate with various third-party services."}
+{"instruction": "What's your experience with Docker?", "output": "We containerize applications using Docker for easier deployment."}
+{"instruction": "Do you offer cybersecurity services?", "output": "We provide basic security audits and vulnerability assessments."}
+{"instruction": "Can you help with data analysis?", "output": "Yes, we offer data analysis using Python and specialized tools."}
+{"instruction": "How do I share files with your team?", "output": "We provide secure client portals for file sharing and collaboration."}
+{"instruction": "What's your uptime guarantee?", "output": "We guarantee 99.5% uptime for all hosted solutions."}
+{"instruction": "Can you build custom CMS solutions?", "output": "Yes, we develop tailored content management systems."}
+{"instruction": "Do you provide training for delivered systems?", "output": "We offer 2 free training sessions with every project delivery."}
+{"instruction": "How do I request a quote?", "output": "Visit kopyae.com/quote and fill out our project questionnaire."}
+{"instruction": "Can you work with legacy systems?", "output": "Yes, we modernize and maintain legacy applications."}
+{"instruction": "What version control do you use?", "output": "We use Git with GitHub/GitLab for all version control needs."}
+{"instruction": "Do you offer 24/7 support?", "output": "We provide 24/7 support for enterprise clients only."}
+{"instruction": "Can you automate business processes?", "output": "Yes, we specialize in workflow automation solutions."}
+{"instruction": "How do I report a security issue?", "output": "Email security@kopyae.com with details of the vulnerability."}
+{"instruction": "What analytics tools do you integrate?", "output": "We integrate Google Analytics, Mixpanel, and custom solutions."}
+{"instruction": "Can you develop cross-platform apps?", "output": "Yes, we use Flutter and React Native for cross-platform development."}
+{"instruction": "Do you offer AI solutions?", "output": "We implement basic AI features like chatbots and recommendation systems."}
+{"instruction": "How do I change my account email?", "output": "Contact support with verification to update your email address."}
+{"instruction": "Can you optimize website performance?", "output": "Yes, we conduct performance audits and optimizations."}
+{"instruction": "What's your backup policy?", "output": "We perform daily backups with 30-day retention for all projects."}
+{"instruction": "Do you provide SMS integration?", "output": "Yes, we integrate Twilio and other SMS gateway providers."}
+{"instruction": "Can you scrape website data?", "output": "We offer ethical web scraping services with proper permissions."}
+{"instruction": "How do I escalate a support issue?", "output": "Reply to your support ticket with 'ESCALATE' in the subject."}
+{"instruction": "What IoT platforms do you work with?", "output": "We have experience with AWS IoT and basic Raspberry Pi projects."}
+{"instruction": "Can you create browser extensions?", "output": "Yes, we develop extensions for Chrome, Firefox, and Edge."}
+{"instruction": "Do you offer graphic design services?", "output": "We provide basic UI design but recommend specialists for complex graphics."}
+{"instruction": "How do I schedule a meeting?", "output": "Use our booking system at kopyae.com/meetings to schedule calls."}
+{"instruction": "Can you implement two-factor authentication?", "output": "Yes, we add 2FA using SMS, email, or authenticator apps."}
+{"instruction": "What's your experience with Kubernetes?", "output": "We deploy containerized applications using Kubernetes clusters."}
+{"instruction": "Do you provide load testing?", "output": "Yes, we conduct load testing with JMeter and Locust."}
+{"instruction": "Can you migrate my WordPress site?", "output": "We offer complete WordPress migration services with zero downtime."}
+{"instruction": "How do I recover deleted files?", "output": "Contact support immediately - we maintain backups for 30 days."}
+{"instruction": "What ERP systems do you integrate with?", "output": "We integrate with Odoo, SAP, and custom ERP solutions."}
+{"instruction": "Can you build a social media platform?", "output": "Yes, we develop custom social networks with moderation tools."}
+{"instruction": "Do you offer video streaming solutions?", "output": "We implement basic streaming using Wowza or JW Player."}
+{"instruction": "How do I verify my account?", "output": "Check your email for a verification link after signing up."}
+{"instruction": "Can you create a RESTful API?", "output": "Yes, we design and document REST APIs for web services."}
+{"instruction": "What's your experience with microservices?", "output": "We architect microservices using Docker and Kubernetes."}
+{"instruction": "Do you provide SEO services?", "output": "We offer basic on-page SEO optimization for websites."}
+{"instruction": "Can you implement single sign-on?", "output": "Yes, we integrate SSO using OAuth, SAML, and LDAP."}
+{"instruction": "How do I check my service status?", "output": "Visit status.kopyae.com for real-time system status updates."}
+{"instruction": "What CRM systems do you work with?", "output": "We integrate with Salesforce, HubSpot, and custom CRMs."}
+{"instruction": "Can you develop AR/VR applications?", "output": "We have limited capability with basic AR implementations."}
+{"instruction": "Do you offer data visualization services?", "output": "Yes, we create dashboards with Tableau, Power BI, and custom D3.js."}
+{"instruction": "How do I submit feedback?", "output": "Email feedback@kopyae.com or use the in-app feedback form."}
+{"instruction": "Can you implement CI/CD pipelines?", "output": "Yes, we set up continuous integration with GitHub Actions/Jenkins."}
+{"instruction": "What's your experience with TensorFlow?", "output": "We implement basic machine learning models using TensorFlow."}
+{"instruction": "Do you provide legal compliance consulting?", "output": "We offer GDPR compliance assistance but recommend legal experts."}
+{"instruction": "Can you build a Progressive Web App?", "output": "Yes, we develop PWAs with offline functionality."}
+{"instruction": "How do I transfer project ownership?", "output": "Submit a transfer request with both parties' consent to support."}
+{"instruction": "What's your experience with Firebase?", "output": "We use Firebase for authentication, databases, and hosting."}
+{"instruction": "Can you create automated tests?", "output": "Yes, we write unit and integration tests using pytest/Jest."}
+{"instruction": "Do you offer infrastructure as code?", "output": "We provision resources using Terraform and CloudFormation."}
+{"instruction": "How do I request API credentials?", "output": "Registered developers can generate keys at kopyae.com/devportal."}
+{"instruction": "Can you implement real-time features?", "output": "Yes, we use WebSockets and Socket.io for real-time functionality."}
+{"instruction": "What's your experience with GraphQL?", "output": "We implement GraphQL APIs with Apollo and Hasura."}
+{"instruction": "Do you provide load balancing solutions?", "output": "Yes, we configure load balancers for high-traffic applications."}
+{"instruction": "Can you optimize database queries?", "output": "We analyze and optimize SQL queries for better performance."}
+{"instruction": "How do I check my usage metrics?", "output": "Access usage statistics in your account dashboard analytics tab."}
+{"instruction": "What's your experience with Redis?", "output": "We implement Redis for caching and real-time features."}
+{"instruction": "Can you set up a VPN solution?", "output": "We configure basic VPN access for remote teams."}
+{"instruction": "Do you offer data migration services?", "output": "Yes, we migrate data between different formats and systems."}
+{"instruction": "How do I whitelist your IPs?", "output": "Our system IPs are listed at kopyae.com/networking."}
+{"instruction": "Can you implement dark mode?", "output": "Yes, we add theme switching capabilities to applications."}
+{"instruction": "What's your experience with WebAssembly?", "output": "We have limited experience with WASM for performance-critical tasks."}
+{"instruction": "Do you provide accessibility audits?", "output": "We conduct basic WCAG 2.1 AA compliance checks."}
+{"instruction": "Can you create a documentation portal?", "output": "Yes, we build knowledge bases with search functionality."}
+{"instruction": "How do I integrate your API?", "output": "Documentation and SDKs are available at api.kopyae.com/docs."}
+{"instruction": "What's your experience with Svelte?", "output": "We've recently started adopting Svelte for frontend projects."}
+{"instruction": "Can you implement geolocation features?", "output": "Yes, we add location services using browser APIs."}
+{"instruction": "Do you offer multi-language support?", "output": "We implement i18n for multilingual applications."}
+{"instruction": "How do I check my invoice history?", "output": "All invoices are available in your account billing section."}
+{"instruction": "Can you build a recommendation engine?", "output": "We implement basic collaborative filtering algorithms."}
+{"instruction": "What's your experience with Deno?", "output": "We're currently evaluating Deno for future projects."}
+{"instruction": "Do you provide serverless solutions?", "output": "Yes, we deploy functions using AWS Lambda and similar services."}
+{"instruction": "Can you implement voice commands?", "output": "We add basic voice control using Web Speech API."}
+{"instruction": "How do I change my notification settings?", "output": "Manage preferences in your account notification center."}
+{"instruction": "What's your experience with Rust?", "output": "We have limited but growing experience with Rust programming."}
+{"instruction": "Can you create a custom chatbot?", "output": "Yes, we develop rule-based and basic AI chatbots."}
+{"instruction": "Do you offer hardware integration?", "output": "We provide limited hardware-software integration services."}
+{"instruction": "How do I request a data export?", "output": "Submit a GDPR data request at kopyae.com/privacy."}
+{"instruction": "Can you implement facial recognition?", "output": "We implement basic face detection (not full recognition)."}
+{"instruction": "What's your experience with Electron?", "output": "We build cross-platform desktop apps using Electron."}
+{"instruction": "Do you provide archiving solutions?", "output": "We implement cold storage archiving for large datasets."}
+{"instruction": "Can you create an internal wiki?", "output": "Yes, we deploy wiki solutions like Confluence or custom builds."}
+{"instruction": "How do I manage team permissions?", "output": "Account admins can configure roles at kopyae.com/teams."}
+{"instruction": "What's your experience with Kotlin?", "output": "We use Kotlin for Android app development projects."}
+{"instruction": "Can you implement a loyalty program?", "output": "Yes, we develop custom loyalty and rewards systems."}
+{"instruction": "Do you offer data cleaning services?", "output": "We provide data preprocessing and cleaning for analytics."}
+{"instruction": "How do I set up two-way sync?", "output": "We implement bi-directional sync between compatible systems."}
+{"instruction": "Can you build a forum platform?", "output": "Yes, we develop custom forum software with moderation tools."}
+{"instruction": "What's your experience with Swift?", "output": "We use Swift for native iOS application development."}
+{"instruction": "Do you provide data warehousing?", "output": "We implement basic data warehouse solutions for analytics."}
+{"instruction": "Can you create a job board?", "output": "Yes, we develop custom job board platforms."}
+{"instruction": "How do I enable API rate limiting?", "output": "We configure rate limiting based on your security requirements."}
