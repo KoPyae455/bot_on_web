@@ -5,11 +5,10 @@ async function sendMessage() {
   const userText = input.value.trim();
   if (!userText) return;
 
-  const userMessage = `<p class="user">🧑 You: ${userText}</p>`;
+  const userMessage = `<p class="user">${userText}</p>`;
   chatBox.innerHTML += userMessage;
   input.value = "";
 
-  // Call backend API here
   const res = await fetch("/chat", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
@@ -17,8 +16,14 @@ async function sendMessage() {
   });
   const data = await res.json();
 
-  const botMessage = `<p class="bot">🤖 AI: ${data.reply}</p>`;
+  const botMessage = `<p class="bot"><span class="bot-avatar">🤖</span>${data.reply}</p>`;
   chatBox.innerHTML += botMessage;
-
   chatBox.scrollTop = chatBox.scrollHeight;
 }
+
+// Theme toggle
+const toggle = document.getElementById("themeToggle");
+toggle.addEventListener("click", () => {
+  document.body.classList.toggle("dark");
+  toggle.textContent = document.body.classList.contains("dark") ? "☀️" : "🌙";
+});
